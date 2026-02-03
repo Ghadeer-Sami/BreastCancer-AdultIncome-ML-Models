@@ -71,6 +71,4 @@ The goal is to evaluate how preprocessing and algorithm choice affect classifica
 
 ---
 
-## Student Info
 
-Ghadeer Sami Nafadi – 44511798 – Section 2
